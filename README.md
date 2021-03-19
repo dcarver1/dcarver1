@@ -11,7 +11,7 @@ Creating rmd to generate summary documents is wonderful. It's my primary tool in
 <div align="center"> 
   A big thanks to the maintainers of and contributors to
   
-**raster -- sp -- sf -- tmap -- ploty -- rmarkdown -- dplyr** 
+**raster -- sp -- sf -- tmap -- plotly -- rmarkdown -- dplyr** 
 
 I do my best to make good work of all your hard work about 5 days a week, minus meetings 
 </div>
