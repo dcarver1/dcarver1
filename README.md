@@ -24,7 +24,7 @@ I do my best to make good work of all your hard work about 5 days a week, minus 
 
 - All those results from the [publication](https://www.pnas.org/content/117/52/33351) found a life outside of the zip file
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcarver1&repo=cwrUSA_maps)](https://github.com/dcarver1/covidNightLights)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcarver1&repo=cwrUSA_maps)](https://github.com/dcarver1/cwrUSA_maps)
 
 ### I'm contributing to 
 - How well are our wild plants conserved? 
