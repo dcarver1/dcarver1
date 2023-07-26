@@ -21,7 +21,7 @@ I do my best to make good work of all your hard work about 5 days a week, minus 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CIAT-DAPA&repo=GapAnalysis)](https://github.com/CIAT-DAPA/GapAnalysis)
 
-I write things generally unrelated to programing [here](https://blog.carverd.com). Often just writing to reflect. 
+I write things generally unrelated to programing [here](https://carverd.com). Often just writing to reflect. 
 
 
 [![details](https://github-readme-stats.vercel.app/api?username=dcarver1)](https://github.com/anuraghazra/github-readme-stats)
